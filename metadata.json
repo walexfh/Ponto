@@ -1,0 +1,5 @@
+{
+  "name": "Ponto-Inteligente",
+  "description": "A tool to process raw timesheet records into consolidated shift reports with intelligent lunch break calculation.",
+  "requestFramePermissions": []
+}
